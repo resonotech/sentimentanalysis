@@ -6,7 +6,9 @@ The first dataset (D1) consisted of 443 product reviews of cars and cosmetic pro
 The D1 and D2 included reviews from different social media forums; forums were of type mobile phones, cars and beauty products.  After sentiment collection, three reviewers independently marked polarity, positive or negative, to each sentiment. These reviewers were the student of computer science and active user of social media. Maximum voting algorithm, out of three votes, selected the final polarity of sentiment.
 
 [dataset1.txt](dataset1.txt)
+
 [dataset2.txt](dataset2.txt)
+
 [Full Data Set in Single File] (fulldataset.txt)
 
 

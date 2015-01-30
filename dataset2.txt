@@ -1,0 +1,401 @@
+ honda70 mahngi ha laken iss ka engine alla quality ka hae#positive
+ arial ki khushbu itni achi nahi laken kaproon ka laya behtreen ha#positive
+ bonus sasta tu ha laken aek ghatiya quality ka saraf hae#negative
+ needo bachoon <word> kay laye </word>  hr doctor recomend kerta ha iss me vitamins bhi shaamil hai#positive
+ sheezan ki cachep bahot alla quality hae magar maehngi hae#negative
+ <word> blue women </word>  acha ha laken blue men ki khushbu bahot gandi hae#negative
+ queue mobile ka touch behter nahiin magar camera acha ha#positive
+ kurkarey <word> mazey daar </word>  haan albata saht ka laya achay nahi#negative
+ pages boht khrab haan laken kitaab bahot nayab hae#positive
+ ye kapra bara chamakdaar hae laken quality boht khrab ha#negative
+ nestle k juice meyn zaiqa tu hae albata taza juices ka apna maza hae#negative
+ ye film box office meyn kaamyaabi tu hasil naa kar ski albata nojawano meyn bahot mashhuur hui#positive
+ master k paint meyn rang tu acha aur ziyadah haen albata ye maehnga bahot prta hae#negative
+ me hu shahid afreedi k songs tu khaas nahiin albata film ki story zabardast hae#positive
+ car ki look bari alla hae khowa <word> sust raftaar </word>  hi sahi#positive
+ itni alla painting meyn ne pehle kabhi nahiin dekhi#positive
+ iss suite meyn embroidery k sawa kuch kaam ka nahiin#positive
+ sunslik k sawa sarey shampo <word> bey kaar </word>  haen#negative
+ pell k sawa kisi fridge meyn cooling nahiin#positive
+ sunsilk se baal silky tu hotey haen magar iss kay alawa mujhe apne baalon ko ghane nahi kerta#negative
+ iss mobile meyn blue tooth k alawa koe service nahiin hae#negative
+ bag <word> paey daar </word>  tu hae leken ziyadah maehnga hae#negative
+ ye kitab bacho <word> kay laye </word>  mufeed tu hae laken ise yaad krna or purchase mushkil hae#negative
+ ye t-shirt mujhe pasand tu nahiin thi laken pahn kar bri kamaal ki lgi#positive
+ ye dawai kafi dair tk bhook rokne meyn tu karamad sabit hui hae laken mera wazan utna ka utna he ha#negative
+ iphone ko har nojwan purchase krna chahta hae laken is ki kiimat bahot ziyadah hae#negative
+ camera k bagar iss mobile ki koe value nahiin#positive
+ dell ka laptop musalsal charging pe lage raehne kay bagar kam nahiin krta#negative
+ lipton kay bagar chai ka zaiqa kahaan#positive
+ agar ye ice creem mazey ki hae tu mashuur kiyun nahiin#negative
+ yea suite mahnga ha agar suite kay saath dupata ho tu phr tahk ha#negative
+ agar ye hi itna maehnga ghar lena hota tu kisi achi colony meyn lana chaya#positive
+ jo cooling <word> heir ac </word>  ki hae kisi ki nahiin#positive
+ ye jo xampp software hae kisi <word> kaam ka </word>  nahiin#positive
+ iss speekar ki base hi kamaal hae laken speaker ka size bra ha ess laya mujaha pasand nahi#negative
+ yea model puraana hae laken brand acha hae#positive
+ dowlance reliable hae agarcha maehnga hi sahi#negative
+ shirt ka colour <word> khuub suurat </word>  hae laken stuff halka hae#negative
+ windows meyn user interface acha hae laken iss meyn virus jaldi aata hae#negative
+ microsoft word acha development tool hae laken standerd tool nahiin#negative
+ jubtak gourmet ki products ki quality hae log ise use kren ge#positive
+ picture dslr se kamaal ki aati hae laken boht costly ha#negative
+ frari ki speed achi hae <word> iss laye </word>  tu maehngi hae#positive
+ multan ka <word> sohan halwa </word>  khaalis hae <word> iss laye </word>  tu mashuur hae#positive
+ zong mashor bht ha jub use kiya phr maloom huwa kay iss ki phone service bahot kharab hae#negative
+ kfc ka <word> fried chicken </word>  bhtreen ha laken hm sab doston ko kfc kay pizza aur showarma ka zaiqa bilkul pasand nahiin aya#negative
+ ponds ki cream aur lotion larkyon ki jaan ha#negative
+ sofa <word> araam dah </word>  nahiin tha <word> iss laye </word>  jaldi sell nahiin huwa#none
+ stylo ki shows <word> paey daar </word>  haen <word> iss laye </word>  tu har koe lena chaahta hae#positive
+ <word> fair and lovely </word>  ne meri skin ka hashar bura kar diya <word> iss laye </word>  meyn next time order nahiin karu gi#negative
+ pepsi sehat <word> kay laye </word>  tu mufeed nahiin <word> kyn kay </word>  iss meyn carbondioxide jo sahat ka liya tahk nahi#negative
+ <word> new pilot englih </word>  grammer study karni chaahiey <word> kyn kay </word>  iss ka pattern acha ha#negative
+ dove istemaal nahiin karni chaahiey <word> iss laye kay </word>  ye unileaver product hae#negative
+ nawai waqt har <word> khaas o aam </word>  meyn maqbool hae <word> iss laye kay </word>  iss meyn zindgi kay har <word> shoba hayaat </word>  kay mutaliq news hoti hae#positive
+ naya akhbar <word> kisi kam ka </word>  nahiin hae <word> ess wastay kay </word>  iss meyn puraani news hoti haen#negative
+ <word> bilal travels </word>  ki lahore taa multaan bus service kisi kam ki nahiin#negative
+ hair ac kay bana garmyo meyn neend nahiin aati#positive
+ camere kay bana nojwaanon ka iss mobile kay saath guzaara nahi#negative
+ gourmet ka cake behtariin nahi ha agar hota tu mashoor hota#positive
+ punjab gournment ki metro bus aik mahnga project tha laken employees <word> kay laye </word>  aik sahuulat fraaham karti hae#positive
+ metro bus ka project fail hae#none
+ ye bahot maehanga suite hae <word> ess laya </word>  meyn tu nahiin khareed sakta#negative
+ agarcha is suite ki finishing bari zabardast hae magar mujaha pasand nahi aya#positive
+ <word> cartoon network </word>  kse waqat boht descent hota tha magar aub bacho <word> kay laye </word>  acha channel nahiin#negative
+ parents pepsi peene se mana krte haen chonkay ye sehat kay lieye muzar hae#negative
+ customer ko ye suite pasand a jata agar ess maan defact na hota#negative
+ meyn <word> deep freezer </word>  nahi khareed sakta chonkay ye <word> boht jaga garta </word>  hae#negative
+ 2 roz qabal main ne yeh phone khareeda aur <word> ab tak </word>  main is say bohat khush hon#positive
+ tv pe iski bohat maqboliyat dakhi mgr istemal karny pe taheek nahi nikla#negative
+ dawlance ka is refrigerator ne tou dhoom hi macha di#positive
+ main ne bohat umeed k sath is kitab k kuch abwaab parhy lekin phr bhi is main dilchaspi nahi ho saki#negative
+ apny laptop ki yeh halat dakh kar mujhe bohat bura laga <word> kyn ka </word>  mujhe yea laptop boht psand tha#negative
+ is handset ka speaker thek kam nhi karta magar display bara zabardast ha#positive
+ main ne is kitaab ka har aik warq dakh liya mgr is main koi kahani bhi achi nahi#negative
+ yea set khobsorti hi ha magar is ki working achi nahi ha#negative
+ yeh car naam say hi luxury car hai ac to is ka bakwas ha#negative
+ yea kitab kafi mehngi ha laken kahani boht dalchasp ha#positive
+ q-mobile ka camera fazool hai ha albata sound quality zabardast ha#positive
+ samsung aur lg ki product mahngi haan albata un ki quality boht achi hoti ha#positive
+ olx ebay ka maqbaly maan boht chota setup ha laken <word> local awam </word>  maan mashoor ha#positive
+ mobile ki smartness b achi ha aur is ka camera bhi bohat acha hai#positive
+ nokia e60 ki battery bohat achi kaam karti hai albata camera tahk nahi#negative
+ main ne bohat chaah say yeh car khareedi hai aye khuda bas yeh thek tarah chalti rahay#positive
+ <word> aye khuda </word>  kitna pyari hai yeh samsung galaxy notebook#positive
+ <word> aray ahmaq </word>  is say zayada behtar kitab tumhy nhi milay giyeh#positive
+ <word> aray ahmaq </word>  faiz ahmed ki ghazal samjhna koi asaan nhi bohat bazouk shaair hai woh#positive
+ t-phone phone bekar aur fazool ha es ko khareedny say behtar hai k tum q-mobile lay lo <word> kun k </word>  q-mobile sasta bhi hai or service bhi achi hai#positive
+ <word> aray ahmaq </word>  nokia smartphones ki lcd zayada achi hai tum wohi lay lo#positive
+ <word> aray mayan </word>  main tou is phone ko 2 saal say istemaal kar raha hoon aur main is ki service say bohat khush hon#positive
+ <word> sonu to sahi </word>  pel ka hi refrigerator lay lo yeh zayada acha rahy ga#positive
+ <word> sonu tu sahee </word>  main ne is company ki jitni bhi cheezain li sab hi baykaar thi#negative
+ main kab say tumhy call kar raha tha mgr yaar kahan thay tum aik to meray mobile ki charging bohat <word> jald hatm </word>  ho jati hai#negative
+ yaar kahan thay mujhe samsung ki notebbok leni hai main ne suna hai k yehi best hai#positive
+ oyaa yeh tou mera phone tha waqai is result bohat acha hai#positive
+ yeh models khareedny say pehlay apny dosto say is ki bohat taaref suni thi mgr sab kuch bakwas nikla#negative
+ abaa itni kam qeemat main itna shandaar phone waah#positive
+ yeh phone mat khareedna is ki battery thek kam nhi karti#negative
+ aj kal market main har tarah ki jadeed machinery aggee hai#positive
+ main ne socha k samsung ka laptop nokia say behtar ho ga magr is main wohi fanni harabi aggee hai#negative
+ market main nokia lumia ka 2 aur models agaye hain jin main say lumia xl ne dhoom macha di#positive
+ tum ne dakha k toyota ki new car aggae hai waah kya model hai#positive
+ uff is battery ko bhi abhi hi dead hona tha#negative
+ tm jatni b en ki tareef karo magar yeh headphones tou meray mobile k liye bilkul munaasib nhi hain#negative
+ main ne 2 saal pehlay nokia ka yeh mobile liya mgr uff is ne to tang kar diya hai har waqat koi na koi masla hi rehta hai is main#negative
+ yea kuta dahkna maan chota aur payra sa lagta ha laken kitna bura kat ta ha#negative
+ uff is laptop ki charging ka har waqt masla hi rehta hai#negative
+ mujhe afsos k sath kehna par raha hai k sony ki products thek kam nhi karti#negative
+ afsos k machine warrnaty say pehlay hi harab ho gae#negative
+ main ne dell k bohat say laptops istemaal kiye mgr afsos har aik main battery tahk nahi#negative
+ main ne camera main naya lens dalwaya hai mgr afsoos yeh phir bhi thek kaam nahi kar raha#negative
+ <word> hayaa allah </word>  jo features dosri car main optional thay who yahan standard k tor pe mojood hain waah#positive
+ laptop maan china ki new battery dalwi laken kuch daar baad he yea khrab ho gae#negative
+ yea database ki best book laken hayaa itni moti ha isay kon parhy ga#negative
+ hayee car main petrol hatm ho gaya#negative
+ ahista ahista is ki market demand kam ho rahi hai#negative
+ internet ki waja say logo main nae ejaadat k baray main baydaari paida ho raai hai#positive
+ <word> google nexus </word>  apni bari screen ki waja say bohat maqbool ho raha hai#positive
+ <word> luxury cars </word>  pe tax barhta hi ja raha hai#negative
+ 15 gb ram 8 megapixel camera aur itni km qeemat waqai q-mobile noir bohat kamal hai#positive
+ main ne yeh phone is liye khareeda <word> kun k </word>  is main wo zabardast features hain jin ki mujhe zarorat thi#positive
+ main ne 4 months pehlay yeh phone khareeda tha aur is battery bohat achi kaam kar rahi hai#positive
+ apple ki new 12 inch notebook main tou bilkul computer jaisi khasosiyaat hain#positive
+ ipods ki overheating ki waja say market main is ki demand kam ho gae log pasand nahi kertay mgr samsung galaxy notebooks behtar ha aur overheating nahi hoti#positive
+ <word> dell convertible notebook </word>  ne tou mujhe hairaan kr diyayeh waqai <word> 360 degree pe flip </word>  ho jati hai#positive
+ htc k itny mehngy smartphones ne mujhe bohat mayoos kiya hai <word> es liye </word>  samsung hi behtar hai#positive
+ samsung galaxy s5 android kitkat os ki waja say sab smartphones pe sabkat lay gya#positive
+ main ne 2 hafty pehlay hi samsung galaxy s5 khareeda aur isay isteemal karny k baad mujhe pta chala k is ka speaker hi is ki iski sab say harab cheez hai#negative
+ mobile ka camera bra acha ha per battery time taheek nae aur wifi be koe khaas nae#negative
+ aik to itna mehnga camera aur result bhi kuch khaas nahi#negative
+ mujhe is phone say koi shikyat nahi hai yeh bohat acha kaam kar raha hai or isay istemal kar k maza aa raha hai#positive
+ mujhe motorola phones bohat pasand thay mgr ab is k os bohat purna ho gaye ha#negative
+ yeh phone bohat khobsorat dikhai deta hai is k menus use karna bohat assaan hain yeh waqai shandaar hai#positive
+ main hamesha royal fans hi pasand karta tha mgr ab is ka who maayar nhi raha#negative
+ canon ne dslr ko aur behtar bna diya hai bluetooth wifi touch screen menus aur bohat kuch#positive
+ is mobile ki casing perfect hai mujhe is say koi shuikyat nhi hai#positive
+ mujhe yeh headset bohat pasand aya kun k yeh bohat <word> aaram day </word>  hai aur airport car etc main is say bohat acha sunai deta hai#positive
+ osaka ki battery ki qeemat ne mujhy bohat mutasir kiya hai itni kam qeemat main is ki charging kamal ki hai#positive
+ usi battery ko sirf $40 ka dakh kr mujhe amazoncom ki good deal ka yakeen ho gya#positive
+ meri old battery tou sirf aik ghanta chalti thi yeh us battery ki achi aur sasti replacement hai#positive
+ honda racing car ki qeemat to asaman ko chonay lgi hai uff itni mehngi#negative
+ car ka engine bilkul theek kam krta hai mgr is ki body bohat harab hay#negative
+ samsung galaxy k itni 50 inch screen dakh kar main bohat khush hon#positive
+ nokia lumia xl ne apny dual os windows aur android ki waja say market main dhoom macha di#positive
+ main is nae ipad ki touch screen say mutmaein nhi ho <word> kun k </word>  main is pe taizi say msgs likhny aur letters insert nhi kar pa raha hai#negative
+ nokia e60 ki battery bohat acha kaam karti hai mgr main is k 30 pixel camera say satisfy nhi hon#negative
+ aj kal honda ki <word> hybrid cars </word>  kam fuel ka istamal ki waja sa bohat maqbool ho rahi hai mgr is ki <word> price boht zayada </word>  hai#negative
+ mera khayal hai k windows 7 windows xp say bohat behtar hai specially windows snow panthers k features tou bohat kamal hain#positive
+ meray khayal main shehbaaz sharif laptops main say dell laptop ka mouse best hai mgr keyboard to bila-shuba hp ka hi behtar hai#positive
+ samsung ki notebbok k features bohat kaamal hain mgr is ki <word> internal memory </word>  kuch zayada behtar nhi hai#negative
+ mitsubishi ki <word> mirage car </word>  itnay kam daam pe waqai hi best hai lekin is ka fuel system kuch disappointing hai#negative
+ <word> windows 8 </word>  ne atay hi <word> windows 7 </word>  ko pechay chor diya mgr <word> windows 8 </word>  sirf touch menus k liye hi best hai desktop pc k liye to windows 7 hi achi hai#positive
+ <word> goolge nexus 7 </word>  k graphics to bohat hi aalla hai or is ki 100 inches screen waah kya bat hai#positive
+ iphone 6s say customers ko bohat umeedain thi mgr is main tou sirf 256mb ki upgrading hoi hai#negative
+ main pechlay 7 saal say microsoft windows based machines istemaal kar raha hon yeh waqai linux say behtar hai#positive
+ microsoft windows k versions ko behtar say behtar karta ja raha hai specially windows 8 k touch screen menu ne to kamal hi kar diya#positive
+ samsung k smartphone boht alaa hain lekin aj kal qmobile ky smartphone ziada bikk rahy hain <word> ku k </word>  vo <word> reasonable price </word>  pr market mai mojood hain#positive
+ smartphones market main samsung ka touch system sab si la-jawab ha mgr cameras lens samsung ki nisbat nokia k zayada achay hain#positive
+ main ne car ki repairment k liye achi company samjh ker $75 diye mgr abhi bhi is ka strearing theek kam nhi karta#negative
+ apple ka ios system windows say behtar zaror hain mgr phir bhi is main kuch <word> features mojood </word>  nhi#negative
+ mobile ka design tou bohat acha hai mgr camera sirf 2 mp hai jo nakaafi hai#negative
+ windows 8 hai tou bohat kamal ki mgr yeh tablets aur notebooks k liye hi perfect hai#positive
+ lg ki products ki price reasonable bhi hai aur quality bhi achi hai#positive
+ customers ko nokia lumia say bohat umeedain wabasta hain is liye woh is main windows k elwa android aur bohat kuch chahty hain#positive
+ google nexus ki lcd display aur graphics bohat hi shandaar hai bus <word> price zayada </word>  hai mgr yeh tablet waqai hi isteemal k qaabil hai#positive
+ q-mobile noir sasta bhi hai aur dakhny main bhi slim and smart hai mgr is ki memory tahk nahi#negative
+ google playstore main duniya ki har cheez say mutlaik apps mojood hain mgr mujhe khaas tor pe movie editing ki app pasand hain#positive
+ android playstore ki apps tou kamal hain mgr in apps downloading say virus bohat jald ajata hai jab k nokia playstore main aisa bohat kam hota hai#positive
+ main ne laptop main itni mehngi nae battery to dalwa li mgr phir bhi is ki charging ka masla hatm nhi hoa in accer k laptops ka yehi tou problem hai#negative
+ ishfaq ahmed ki kitab waqai bohat bazoak hoti hain mgr isay sirf adab main dichaspi rakhny walay log hi parh sakty hain#positive
+ main aik arsay say iphone lenay ka khawhish mand tha aur main isay lay kr bohat khush bhi hon mgr mgr is k touch system ne mujhe bohat maayos kiya#negative
+ nestle ne apny mission good food good life ko pora kr dikhaya is ki sab hi products best hain aur <word> qabil e tareef </word>  hain#positive
+ android appstore ki slow browsing say main bohat tang hon nokia store is say kuch darjy behtar hi hai#positive
+ samsung ki bluetooth service hai tou bohat fast mgr is ki kuch minutes bad invisibilty ki waja say bohat problem hoti hai#negative
+ qwerty keypad bluetooth multimedia camera gsm sab kuch hai is blackberry phone main mgr yeh aksar hi stuck ho jata hai jis ki waja say browsing main bohat masla hota hai#negative
+ honda city ka dvd navigation system ne kaamal hi kr diya h per is ka gear system manually thek km nhi krta#negative
+ yea ek acha color combination hai or iss mai kafi colors hain#positive
+ mai ny aj yea naya nokia ka mobile liya h jo k behtreen hai#positive
+ yea company apni achi or quality vali products market my lati hai#positive
+ yea nestle ka naya juice h iss ka taste acha nahi#negative
+ hum dono mil kr yea kitab kharid lain gy bht khob hai#positive
+ mai yeh mobile kharidun yaan vo mjy dono e pasand hain bs confuse hn#positive
+ tm yaan mai aj sham ko ammi k liye achi si shoes leny jain gy#positive
+ mera dil kr raha ha yaan tou mai pel ka fridge ly ln yaan dolance ka#positive
+ asus company ko chaiye k yaan tou vo sirf laptop marketing kry yaan mobiles ki#none
+ tmhary pass acha tv nai hai lekin iss purany tv sy b tahk chal e raha hai#positive
+ samsung ki products bht achi hn mgr apple ka muqbla nahi#negative
+ pel ka air conditionor achi cooling kerta ha mgr uski <word> qemat ziada </word>  hai thori c#negative
+ hum <word> yaan tu </word>  swift ki car lain gy yaan vitz car lain gy#positive
+ yeh hm sb ka faisla tha k hum ek acha lg tv lain gy#positive
+ asus ka microwve bhi umdaa hai#positive
+ lg ki products ka rate reasonable nai hai#negative
+ humai tou bs pel ka fridge e chahiye#positive
+ mai ny kbhi b apple ka iphone istemal nhn kia#negative
+ iphone ka camera sb sy acha hai`#positive
+ meray bhai ny meray liye bahir sy wrist watch bheji hai jis ka na tou mjy color pasand aya na e style#negative
+ na del k laptop mai camera h na memory card ki port hai#negative
+ mjy medora ki na nail polish pasand hai na e perfumes#negative
+ na mjy na e meri sister ko qmobile kay smart phone pasand hain#negative
+ na tou mjy pepsi pasand hai na e marinda#negative
+ mai ny kafi behtar reviews parhay accer ky laptop ky liye mgr mjy us k features ziada pasand nai aye#negative
+ meray pass 2 android mobile hain per dono ka camera mjy pasand nahi#negative
+ nokia 200 ki battery bht achi hai per camera 2 mega pixel hai es ka result acha nahi#negative
+ sony ka tv bht acha hai per resolution itni khas nahi#negative
+ lg ky laptop achay hain per koe paidari nai#negative
+ samsung k smartphone bht alaa hain lekin aj kal qmobile ky smartphone ziada bikk rahy hain <word> ku k </word>  vo reasonable price pr market mai mojood hain#positive
+ nokia k mobile bht achy htty hain lekin aj kal market mai samsung chahya hua hai#positive
+ iphone 4 ka camera b bht acha hai lekin iphone 5s ka camera us sy b bahtar kr h#positive
+ mai qmobile ka phone lena chahti thi lekin us k features nhn achy lgy#positive
+ meray dost ny lg ka smart lcd tv kharida h lekin us ko pasand nahi aya ab vo bechna chahta h#negative
+ qmobile ky smartphone ramzan mai sasty ho jain gy#positive
+ galaxy star jo bht alaa mobile h sasta hogya#positive
+ nokia k mobile jitni dafa marzi girain kbhi khrab nai htty afreen hai#positive
+ afreen iss smartphone ki battery itni allaa hai#positive
+ afreen yeh car automatic hai#positive
+ hum ny 6 saal yehi sony ka camera istemal kiya afreen hai iss mai koi kharabi nai ai#positive
+ afreen kitna khobsorat model h yeh corrolla ka#positive
+ shahbash tm ny mehnat kr k acha smartphone khrid e liya vo b iphone#positive
+ wa ji wa tm ny tou brra alaa dslr khrida shabash bai#positive
+ tm ny behtreen laptop liya hai shabash tmhari achi choice k liye#positive
+ shahbash iss liye k tm ny corolla gli khrid li corolla gli car ka engine sb sy behtr hai#positive
+ shahbash meray bhai tm ny tou yeh garri ly kr mjy heran kr dia#positive
+ nokia k smartphones itnay achay hain k wawa#positive
+ pel ki products bht behtreen hain k wawa#positive
+ wa wa ji yeh mobile tou mjy bohat acha lga#positive
+ wa ji wa tm ny dslr liya vo b canon ka good#positive
+ wa wa iss sony ka laptop k tou allaa features hain#positive
+ wa wa lg ka ac tou bohat cooling krta hai#positive
+ pel company ky ac ky tou <word> kya kehna </word> #positive
+ <word> wa bai wa </word>  <word> kya kehnay </word>  qmobile k#positive
+ yeh ac itni cooling krta hai k <word> kya kehnay </word> #positive
+ lg k laptop ki peformance bht achi hai <word> chame baadoor </word> #positive
+ yeh mera favorite color h meri garri b issi rang mai hai <word> chasm baadoor </word> #positive
+ tmahry pass brra fit ipad hai <word> chasm badoor </word> #positive
+ ap ray ban ki glasses pehan kr bohat achay lgty ho bhai <word> chasm baadoor </word> #positive
+ tm ny mjy iphone ly kr bheja jazakallah#positive
+ laanat qmobile k phones ki kisi kam ki battery nai hai#negative
+ laanat h iss cameray pr jo kisi kaam ki tasweer nai leta#negative
+ yeh kenwood ki washing machine hai laanat h iss py kisi kaam k kapry nhn dhoti balky kharab e rehti hai#negative
+ tm mjy kitna ghtiya mobile 3310 lenay ko keh ray ho laanat#negative
+ laanat h ayedin mera laptop khrab hojata h#negative
+ mjy yeh ghrri zra achi nai lgi thoo kitna burra color hai#negative
+ thoo issags k ups ki battery timing bht kam hai#negative
+ thoo qmobiles k sary e smart phones itnay brry size k hain na e ink colors koi itnay khas htty hain#negative
+ ap ny garri lety huy yai color lena tha thoo kitna ganda color h#negative
+ thoo iss milk pak ka taste check kro kitna khrab h#negative
+ <word> chi chi </word>  good milk ki products naqli hain#negative
+ <word> chi chi </word>  nestle k juices mai nectar nai sirf ester dala htta hai#negative
+ <word> subhan allah </word>  corolla ki cars tou bs#positive
+ tmharay pass brri achi collection h mobiles <word> subhan allah </word> #positive
+ <word> subhan allah </word>  yeh gari kitni achi hai na#positive
+ dhoom ki motorcycles b bht achi hain <word> subhan allah </word> #positive
+ metro sy jo shoes mai ny liy hain vo tou sb hi ko bht pasand aye#positive
+ <word> uff raa </word>  iss laptop ka response time bht acha hai#positive
+ <word> uff raa </word>  tmhara mobile kafi expensive lgta hai#positive
+ <word> uff ra </word>  kya khob garri h#positive
+ <word> uff ra </word>  bht mazedar choclate hai maza agya#positive
+ <word> uff raa </word>  bht alla dslr hai#positive
+ aha kya acha camera h#positive
+ brra acha taste h rooh afza ka aha#positive
+ aha yeh car ka color bht cool h#positive
+ aha gharri tou brri achi pehni h rado ki lg rai h#positive
+ aha tm ny tou brra cute mobile pkkra hai#positive
+ <word> wa wa </word>  kya khobsorat heavy bike hai honda ki#positive
+ <word> wa wa </word>  bht piyara iphone hai#positive
+ <word> wa wa </word>  pel ka fridge bht cooling krti hai#positive
+ <word> wa wa </word>  iphone 5s tou iphone 4 sy b acha hai#positive
+ tmhari garri tou bilkul racing car ki taar chalti hai <word> wa wa </word> #positive
+ tm ghar beth kr meri garri ki badtareefi krty rehty ho <word> khabar daar </word>  aind ki tou#negative
+ <word> khabar daar </word>  agar ap ny yeh model lia garri ka mai ny suna hai iss ki working nai achi#negative
+ <word> khabar daar </word>  agar ainda tm ny mjy qmobile lenay ko kaha#negative
+ <word> khabar daar </word>  cadbory choclates mtt kahaya kro#negative
+ haan tm tou meri garri kho gy e aisy <word> ku k </word>  apny pass jo mercidies hai#negative
+ haan ab tm tou <word> jan bojh </word>  kr isi company ka latop lo gy <word> ku k </word>  meray pass jo agya#negative
+ yea ek acha color combination hai or iss mai kafi colors hain#positive
+ iss mobile ki battery behtreen hai#positive
+ mai ny aj e naya nokia ka mobile liya h jo k behtreen hai#positive
+ yea nestle ka naya juice h mgr iss ka taste acha nahi#negative
+ hum dono mil kr kitab kharid lain gy bht khob likhi hai#positive
+ mai yeh mobile kharidun yaan vo mjy dono e pasand hain bs confuse hn#positive
+ mera dil kr raha ha <word> yaan tou </word>  mai pel ka fridge ly ln yaan dolance ka vaisy mera khayal dolance behtreen rahay ga#positive
+ mjy tmahari garri ki service nhn pasand#negative
+ tmharay pass jo wifi hai us ki speed brri slow hai#negative
+ asus ka laptop kafi behtr hai hp laptop sy#positive
+ humai tou nesle ki product achi lgti hain vo humai suit b krti hain#positive
+ iss mobile ka response time acha nhn lekin yeh user friendly hai iss waja sy mjy pasand ha#positive
+ meray pass canon ka dslr hai us sy tasweer kamal ki ati hai#positive
+ asus ka microwve bhi umdaa hai#positive
+ kentox ek achi or zimedarcompany hai iss ki products qabile aitmad hain#positive
+ lg ki products ka rate reasonable nai hai#negative
+ iphone ka camera baqi sb sy acha hai`#positive
+ mai ny kafi reviews parhay accer ky laptop ky liye mgr mjy us k features ziada pasand nai aye#negative
+ mjy na tou rolex ki rings pasand hain na e wrist watches#negative
+ lg tv ki screen resolution kamal hai#positive
+ meray bhai ny meray liye bahir sy rolex ki wrist watch bheji hai jis ka <word> na tou </word>  mjy color pasand aya na e style#negative
+ nokia 200 ki battery tou bht e achi hai#positive
+ apple iphone 5s ki tareef tou bnti hai#positive
+ sony ka tv bht acha hai per resolution itni khas nahi lekin <word> phir b </word>  mai issko e kharidna chahta hn#positive
+ lg ky laptop ki paedari ki koi guarntee nai#negative
+ samsung k smartphone <word> bht alaa </word>  hain#positive
+ samsung k saray gadgets market mai pehly number per hain#positive
+ waves k refrigerator or ac mashoor huy mgr in ki paidari nai thi iss liye ab inhain koi nai purchase krta#negative
+ nokia k mobile itnay achay hain k jitni bar marzi girain koi farq nai parta#positive
+ mjy bs lcd tv nai pasand#negative
+ sony k fridge ziada cooling nai krty bekaar hain#negative
+ <word> wa wa </word>  lg ka ac tou bohat cooling krta hai#positive
+ tmharay canon k dslr k <word> kya kehna </word> #positive
+ lg tv mei 200 channels hain <word> kya baat hai </word>  bae#positive
+ iss camera k resolution e bht umdaa hai#positive
+ tm ny jo car abhi purchase ki hai us ki koi value e nai meri nazar mai#negative
+ meray abu ny mjy bht achi car gift ki hai#positive
+ witribe ki service ptcl broadband sy ziada behtr hai#positive
+ tm mjy kitna ghtiya mobile 3310 lenay ko keh ray ho laanat#negative
+ yeh kenwood ki washing machine hai jo kapron ki haiyat e kharab kr deti hai#negative
+ mjy yeh ghrri zra achi nai lgi dekho kitna gnda sa color hai#negative
+ yeh kisi <word> kaam ka </word>  mobile nai iss mobile sy behtr tha koe aur mobile ly lety us ki bht tareef sunni hai#negative
+ qmobiles k sary e smart phones itnay brry size k hain <word> ess laya </word>  mujah pasand nahi#negative
+ mjy vo mobile itna pasand aya h dil krta hai ly ln bs#positive
+ mai tou bs everyday milk e use krti hn#positive
+ cadbory choclates mtt kahaya kro naqli htti hain#negative
+ vo taraki nahi ker saka laken qmobile ny 2 saalon mai kafi taraki ker li#positive
+ mjy vaio ka laptop e lena tha mgr vo reasonable nhn tha#negative
+ mera czn ko asus k work station achay lgty hain#positive
+ hm sb ko vitz car bht pasand hai#positive
+ swift car sy bhtr vitz hai iss mai engine b heavy hai#positive
+ nokia me achey camera kay sawa saari applications bekaar haen#negative
+ dulux paint me rang achey honey kay sawa koi khoobi nahiin hae#negative
+ <word> super asia </word>  ki products bekar haan laken washing machine mazboot ha#positive
+ iss car meyn achi look k alawa aur koi achi quality nahiin hae#negative
+ nokia mobile meyn behtreen <word> blue tooth </word>  service kay alawa koi service theek nahiin hae#none
+ <word> need for speed </word>  game me car ki speed achi nae laken scene bhi bohat alla haen#positive
+ behtreen camera k bagar nokiamobile bohat fazool hae#none
+ warid ki sim kay theek signal k bagar dunia andheyr hae#positive
+ dell ka laptop musalsal charging pe lage raehne kay bagar achi tarha kam nahiin krta#positive
+ q mobile itna acha brand nahi ha laken touch screen ki waja sa log es ko pasand kertay haan#positive
+ car ki condition achi ha laken jaldi khraab ho jae gi#negative
+ agar dowlance behter hota tu jaldi khraab na hota#negative
+ agar ikea ka furniture mehnga hae tu piyaara bhi hae#positive
+ agar qmobile ka touch bekaar na hota tu sab ko pasand aata#negative
+ yea kitaab achi tu nahiin laken mashuur hae#negative
+ jo game behtereen hoti h wo mahngi zaror hoti ha#positive
+ xampp software mashor company apache waloon ka ha laken hae bilkul ghatiya#negative
+ jo mobile puraaney model ka hota wo zayda solid aur darpaa hotay haan magar sab na pasand kartey hae#negative
+ windows meyn user interface acha hae agrcha virus files ko jaldi khraab kr deta hae#negative
+ soney television ki screen resolution behter hae per screen ka size tahk nahi#negative
+ mobile naya hae per model kaafi puraana hae#negative
+ blackat ki <word> khush bu </word>  achai hae mager packing bilkul <word> bad surat </word>  hae#negative
+ gfc fan ki quality achi ho ga tu market me es ki value behtar nahi hoti#negative
+ microsoft apni battery timing theek nahiin kerta <word> ess laya </word>  battery jaldi khraab ho jate haan#negative
+ jubtak phon companies acchey packages ki offer nahiin krti company ko koi faida nahiin hota#negative
+ lux beauty soap ki khusbu achi ha laken yea jild khraab krta ha#negative
+ vitiz ka interior boht shandar aur <word> aram da </word>  ha laken ess ka engine nakaara hae <word> ess laya </word>  jaldi khraab ho jati hae#negative
+ club mobile ecnomical tu ha magar camera bilkul ghatiya quality ka laga hua hae#negative
+ gold status ka sign ha <word> ess laya </word>  yea bohat mehnga hae#negative
+ tenda k modem ecnomical haan laken bohat kam internet signals generate krta hae <word> ess laya </word>  downloading ki raftaar kaafi suust ho jati hae#negative
+ warid k signals tahk atay haan laken message speed bohat fazool hae#negative
+ ikea ka furniture bohat maehnga hae magar us ki apni shan ha#positive
+ gfive ki look bilkul piyaari nahiin albata set behtreen ha#positive
+ pentium3 computer tu bohat puraana hae aur speed bhi achi nahiin#negative
+ waves ka triplets bilkul bekaar hae magar fridge bht alla ha#positive
+ club mobile aik behtar company ha laken club21 tu ghatiya treen mobile hae#negative
+ kingston ki ram sub sa behtar ha per usb tu bohat fazool hae#negative
+ ikea ka furniture bohat zyaada maehnga hae tu kya howa stylish ha bus aur kya chaya#positive
+ kingston ki usb ki speed achi ha per khrab bht jaldi ho jati hae#negative
+ zong ka call package sasta laken ess ki service zara b achi nahi#negative
+ gfive kamal ka set hota agar camera acha hota tu#negative
+ htc ka touch behtar ha laken typing speed achi nahiin hae#negative
+ iss microwave mai khuch b garam kro high frequency pr tub b garam nai htta#negative
+ yeh camera resolution k lehaz sy tahk magar iss ki battery timing mjy bohat pasand nahi#negative
+ meray bhai ko mobile gift mila maan bht khush hoe per es ki na tou battery aur na e camera itny achy hain#negative
+ mai <word> fiction movies </word>  pasand nai kerti laken <word> action movies </word>  bht achi lagti haan#positive
+ lenovo ka laptop mushor boht howa ha per sai kaam nai krta ess laya tm yeh na e karido#negative
+ milk pak ki rating sb nestle products mai sy behtar ha magar phr b es ki chaya achi nahi banti#negative
+ yeh hand free mujah bht acha lagta magar ess ki voice quality achi nahi jatni tmhari hand free ki ha#negative
+ witribe wifi k signals strong haan magar speed bht bakwas ha#negative
+ mjy <word> action movies </word>  nai pasand sirf ess wastay k us mai fighting htti hai#negative
+ tm qmobile kharid lo psand na aya tu wapas ker dana <word> kyn ka </word>  market mai es ki resale achi ha#positive
+ dost bta raha tha ka yea movie bht achi ha magar yea inthi bakar nakli#negative
+ honda sorhab sa mahngi tu ha laken honda ki asani sa bachi ja sakti ha kasi b waqat#positive
+ iss camera ki resolution theek ha ha per kaam light maan yea camera tahk kaam nahi kerta#negative
+ mai bazar nai ja ski iss liye mobile b nai kharid ski#negative
+ yea movie achi thi magar es ka print bht ganda tha#negative
+ tm iss garri ki badtareefi iss k color ki waja sy mtt kro iss ki functionality dekho#positive
+ film ka trailer to acha laga mgr pori film dakhny k bad maayosi hoi#negative
+ nokia xl ki screen ne to dhom macha di mgr is ka speaker to bohat hi low quality ka nikla#negative
+ main ne leather cases ki bohat tareef suni thi mgr istemal karny pe bohat maayosi hoi#negative
+ daini tab 8000 qeemat main qabile-tareef features hain mgr inka phone system q-tablet k muqably main kuch acha nhi#negative
+ pakistani media ki ghalt coverage ne na sirf awam balkay pori duniya main hamri hakomat ko kamzor bna diya hai#negative
+ <word> state bank </word>  na sirf pakistan balky pori dosry mulkoon main bi shoohrat hasil kr liya hai#positive
+ imran ho ya <word> tahir ul qadri </word>  dono ne mulk ki economics ko slow ker daya ha#negative
+ cell phone ki naye battery to fit hai lekin is ki woh strength nahi jo k pehlay ki#negative
+ dell ne apny keyborad or mouse ko behtar bna kr bohat tarakki ki hai mgr is ram phir bhi perfect nhi hai#negative
+ dakhny main to yeh product bohat khubsorat thi albata iski <word> naqabil e bardasht </word>  petrol ki smell ne muje is ko wapis karny pe mojbor kr diya#negative
+ main manta hon k q-mobile ne smartphones ka touch system bohat behtar bna diya hai albata is ki camera pixels abhi bhi tassli-bakhsh nhi#negative
+ pel fridge k designs tou bohat la-jawab hain albata quality achi nahi#positive
+ samsung apny smartphones ki ram ko mazeed behtar karay ya phr apna purana design hi badal day#negative
+ ap chaho to samsung tablet hareed lo jo bohat payedaar hai warna sasti si q-tablet lay lo mgr uski quality achi nhi#negative
+ chahy samsung ho ya htc har kisi ne apple ki naqal kr k apny mayaar ko gira diya hai#negative
+ is ki karkardgi umeedo k mutabiq bohat aallah per iska camera pixels mazeed behtar honay chaye#negative
+ q-mobile noir ki 45 inches screen bilkul munasib hai per iska touch system bohat slow hai#negative
+ imac computer bohat jaldi garm ho jata hai yaan tu is ka processor harab hai ya phir wiring thek nhi#negative
+ huawei phones ne apni la-jawab features sy iphone ko pechay chor diya lekin phir bhi iphone ki demand kam nhi hoi#negative

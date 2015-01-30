@@ -1,0 +1,443 @@
+ previous model best tha laken samsung k naye models achay nahi hain.#negative
+ yh cream dry skin wale logo k liye bht faidamand hai.#positive
+ <word> i phone </word>  se banday ki personality barh jaty hai.#positive
+ whatsapp ka naya feature fazool aur bakwas hai laken previous version zabardast ha#positive
+ ios8 jald hi market me anay ka imkaan hai.#none
+ htc ha mehnga laken es ki quality boht behtreen hai.#positive
+ <word> honda city </word>  ha mahngi magar mja sare garion me bohat pasand hai.#positive
+ <word> dawlance ac </word>  laga lia to life <word> jheenga lala </word> #positive
+ cd70 naye models k agay kuch khas nai lagty.#negative
+ <word> fair n lovely </word>  k istemaal se mere face p pimples nikal aye hain.#negative
+ mitsubishi ka brand mushor ha magar mitsubishi ka ac bilkul thanda nai kerta.#negative
+ suzuki aik bahtreen company ha <word> es laya </word>  ess suzuki ko junk cars banana band ker dena chahye.#negative
+ cultus ki qeemat us ki facilites k hisaab se bohat ziada hai.#negative
+ jeep maan pertol bht mahnga parta ha laken pahaari raston k lie bht munasib ha#positive
+ used cars ziada arsa nahi chaltien.#negative
+ ford mahngi car ha magar es ka interior bohat araamdeh hai.#positive
+ muja <word> imported car </word>  pasand nahi magar audi mere pasandeeda gari hai.#positive
+ mujaha ford pasand nahi laken mere biwi ko ford chalana acha lagta hai.#positive
+ suzuki ki garian ka exterior ankhon ko nahi bhaata.#negative
+ mujaha honda achi nahi lagti magar ess ki apni aik class hai.#positive
+ samsung mahnga phone ha magar s5 use ker k chass ajaty hai.#positive
+ dslr camera mehngay haan magar es ki pictures ka result sab se behtreen hota hai.#positive
+ <word> lg gflex </word>  istemaal k lihaaz se khas acha nahi hai.#negative
+ <word> lg g2 </word>  ki qeemat us k hisab se bohat ziada hai.#negative
+ lux ha mahnga magar lux k saabun ki smell dil ko bhaati hai.#positive
+ pantene shampoo baalon ki health ka laya acha ha per <word> pantene shampoo </word>  se baalon ki shine khatam ho jaty hai.#negative
+ s4 bohat zabardast set ha per ess ka <word> samsung s4 </word>  ka alarm feature aitebaar k qabil nai hai.#negative
+ <word> samsung s4 </word>  her nayi update k saath mazeed kharab kaam kerna shru ho jata hai.#negative
+ mja is baat p koi afsoos nahi hai k me iphone se s4 p aya.#positive
+ s4 bohat shandaar phone hai per ha mahnga#negative
+ <word> samsung i9000 </word>  me temple run nahi chalty#negative
+ mera i9000 sahi nahi chal raha.#negative
+ <word> galaxy note </word>  acha mobile hai jis me taqreeban sare features mojood hain magar mujha pasand nahi ha#negative
+ nokia ka dosra mobile behtreen ha laken yea <word> nokia lumia </word>  fazool mobile hai.#negative
+ samsung acha brand ha magar <word> galaxy s duos </word>  bht kharab fone hai.#negative
+ <word> galaxy s duos </word>  me naye updates hi nahi atien#negative
+ iphone 4 halka fone tha laken <word> iphone 5s </word>  aik solid phone hai.#positive
+ iphone5 mahnga ha laken ab tak ka behtreen phone hai.#positive
+ <word> iphone 5s </word>  istemaal me jitna asaan hai utna hi acha chalta b hai.#positive
+ pakistan maan iphone itna mashor nahi laken iphone mera pasandeeda phone hai.#positive
+ <word> honda amaze </word>  achi car ha laken es ka diesel engine bohat shorr machata hai.#negative
+ <word> honda amaze </word>  ka interior kuch khas nahi hai.#negative
+ civic ki finishing bohat achi hui vi hai.#positive
+ mujaha civic achi nahi lagti <word> kyn ka </word>  mera <word> honda crv </word>  ka experience bohat behtreen hai.#positive
+ crv aik choti gari hai magar bohat alla haai.#positive
+ lemo luxary car ha tu magar es ki oil consumption bohat ziada hai.#negative
+ saray ameer log dakhway ka laya lemo jaise barii gaari ka istemaal kertay hain.#negative
+ <word> honda amaze </word>  ka exterior shandaar hai aur interior utna ha fazool#negative
+ nokia main <word> play store </word>  nhi chalta.#negative
+ <word> samsung galaxy y </word>  bohat acha set hota magar ess kay camera ka result acha nhi.#negative
+ i like s5 <word> kyun k </word>  is k features bohat attractive hain.#positive
+ <word> suzuki mehran </word>  ecnomical ha tu kya howa es ka ac bohat slow hai  iam not going to buy it.#negative
+ coure ka interior behtar hai magar exterior itna acha nahi#negative
+ acer brand behtren haan laken acer aspire ki specifications fazool hai#negative
+ <word> designer dresses </word>  ki price range bohat zyada hai.#negative
+ microsoft kay products ki dunya bhar main bohat demand hai.#positive
+ <word> honda company </word>  aur china kay bikes ki price main thora hi farq hai.#none
+ <word> play station2 </word>  ki boht sasta nhi lekin phir bhi bohat log isay pasand krtay hain.#positive
+ google behtar ha laken <word> internet explorer </word>  bohat hi slow browser hai plzz not install it#negative
+ sony kay speakers ki voice quality bohat aala hai.#positive
+ naizi farig bus service ha laken <word> daewoo bus </word>  service pakistan ki best bus service hai.#positive
+ yamaha stylish ha laken es ki petrol consumption bohat zyada hai only <word> 10 km </word>  in 1 litre.#negative
+ is jewellery shop kay <word> ear ring </word>  designs bus normal hain.#none
+ artficial jewellery ki shine nahi rahti <word> ess laya </word>  i prefer <word> gold jewellery </word> #positive
+ i like <word> smart phones </word>  <word> kyun k </word>  in main sambian mobiles fazool haan#positive
+ <word> samsung mobiles </word>  ki memory bht zyada hai card ki zroorat nahi.#positive
+ mili bakar brand ha magar nike kay shoes bht hi comfortable hain i wanna buy one pair.#positive
+ mujhe mac kay products pasand hain lekin ye bht expensive hain.#negative
+ <word> bb cream </word>  say muje skin allergy ho gaye main recommend krun gi koyi ise use na kray.#negative
+ <word> ponds cream </word>  use kar k meri skin bhi soft hue aur pores bhi behter ho gaye.#positive
+ <word> sony 32 inch lcd </word>  ki performance aur picture quality baki companies say achi hai.#positive
+ <word> beauty products </word>  kay shipping charges bht zyada hain.#negative
+ <word> head n shoulders </word>  shampoo ki 18 different types hain un main aek select krna mushkil hai.#none
+ main nay <word> head n shoulders </word>  kay ilawa jitnay bhi shampoo try kiye sub ko reject kar diya.#positive
+ <word> panasonic camera </word>  ki performance low light main bhi zabardast hai.#positive
+ <word> sony camera </word>  aur dslr kay shots takreeban same hi hain.#none
+ pantene ki smell achi nhi hai main recommned krun gi ise koyi use na kray.#negative
+ <word> toshiba company </word>  ki customer service kse kaam ki nhi. jab bhi contact kiya koyi nhi aaya.#negative
+ mera nokia ka mobile <word> aek saal </word>  ki warranty say pehlay ki kahrab ho gaya.#negative
+ <word> sunsilk shampoo </word>  say main khush nhi is nay meray balon ko dry kar diya hai.#negative
+ <word> apple company </word>  sirf customers ko lootnay kay liye hai  in kay products fazool hain.#negative
+ <word> shehbaz sharif </word>  kay laptops ka processror kafi slow hai heavy softwares is main nhi chal skte.#negative
+ <word> samsung s5 </word>  ka gear bht hi aala cheez hai sari phone wali functionality is main bhi hai.#positive
+ <word> samsung s5 </word>  use kar k aisa lgta hai dunya ki har cheez ap kay hath main hai.#positive
+ <word> olay skin products </word>  use krne se pehle meri skin phir bhi behtar thi 90$ waste kiye main nay.#positive
+ boss kay suits sirf formally use kar skte hain informal dressing kay liye aur bht brands hain.#none
+ <word> q mobiles </word>  ka zoom feature theek work nhi krta.#negative
+ <word> black berry </word>  mobiles ka indoor flash mode kay bagair bhi result ach ahai.#positive
+ <word> hp printers </word>  ki colour printing ka to koyi jawab hi nhi fit cheez hai ye.#positive
+ <word> sony vaio </word>  bht jaldi overheat ho jata hai mujhe isay use krnay main mushkil hoti hai.#negative
+ dell <word> shipping service </word>  bohat fast hai muje trip pay janay say pehlay new laptop mil gya.#positive
+ <word> dove soap </word>  normal skin kay liye acha hai lekin sensitive kay kiye nhi.#none
+ <word> pak fans </word>  main alluminum istamaal hota hai jse saaf krna mushkil kaam hai.#negative
+ <word> orient air conditioners </word>  kam time main room temp ko normal kar daite hain but bht low nhi.#none
+ <word> dawlance air conditioners </word>  ki lcd bht bright hai.#positive
+ adidas k shoes achay running shoes hain ap ise pehn kay <word> 13+ hours </word>  sakoon say chal sktay ho.#positive
+ <word> windows 8 </word>  main bht say extra features hain jo 7 main nhi hain.#positive
+ <word> colgate toothpaste </word>  say bht si oral infections kam ho jati hain.#positive
+ samsung ki graphics bht fit hain.#positive
+ dell k laoptops k <word> battery time </word>  acha hota hai.#positive
+ <word> fair and lovely </word>  se complexion fair hota hai.#positive
+ samsung kai mobiles ki sharing/ connectivity bht achi hai.#positive
+ kafi logo ko <word> q mobile </word>  main memory k issue aya hai.#negative
+ <word> vaseline lotion </word>  skin ko moist rakhta hai.#positive
+ sunsilk use karny se baal bht soft ho jatay hain.#positive
+ medicam use karny se mere gums se bleeding hoty hai.#negative
+ dawlance ki products bht reliable hain.#positive
+ <word> fairness creams </word>  use karny se meri skin kharab ho jaty hai.#negative
+ mjh <word> black heads </word>  k masla tha laikin ponds k products use karny se meri skin saaf ho gaye.#positive
+ <word> asim jofa </word>  k lawn prints achy to bht hain laikin bht expensive hai.#negative
+ <word> i phone </word>  k touch is not like any other capacitive touch.#positive
+ main to vlc <word> media player </word>  pe movies dekhti hun qk us main subtitles b ajaty hain.#positive
+ nokia k phones ki sound quaity bht achi hai.#positive
+ maine <word> sun block </word>  use kia leikn us ka koi resut nai hai.#negative
+ <word> 2 stroke rikshay </word>  environment k lie healthy nahi hain.#negative
+ <word> toyota gli </word>  waghaira mein catalytic converters lagay huay hain jo gases k emission m help kertay.#positive
+ ptcl walo ki complaint service bohat thaki hui hain.#negative
+ nokia k phones ki baat yeh hai k un ki camera quality achi hai.#positive
+ ufone k naye sms package bht mehngay hain.#negative
+ mja dermatologist ne dandruff k lie stiepox recommend kia hai.#positive
+ i prefer samsung k mobiles over others bcoz us k <word> motion sensors </word>  bht alla hain.#positive
+ maria.b k kapray n jewelry achi hai.#positive
+ maine bht se networks use kie hai bt jo baat warid ki hai  wo kisi me nahi.#positive
+ main baalon ki shine k lie pantene <word> oil replacement </word>  use kerty hun.#positive
+ bata k shoes comfortable hotay hain.#positive
+ is picture ki quality is lie achi hai coz yh dslr se i hui hai.#positive
+ i wanted to use <word> huawei mobyl </word>  bt jab me ne us k reviews parhay to me ne plan chng ker dia.#negative
+ <word> nokia 6303 </word>  me 3g aur wan jaise functions nahi hain.#negative
+ blackberry ki battery <word> 24 ghntay </word>  tak chalti hai.#positive
+ i don�t know why sony is not working on ram of my phone.#negative
+ lumia me <word> 1 gb </word>  ram ki applications install nahi ho saktien.#negative
+ <word> nokia 2710 </word>  me navigation achi nahi hai.#negative
+ mac k products mere skin ko suit nahi kertay.#negative
+ iphone me connectivity ka masla hota hai q k us me buetooth nai hota.#negative
+ <word> samsung s3 </word>  mein bohat jadeed features mojood hain.#positive
+ htc k mob ki resale nai hai.#negative
+ samsung k mobiles ka <word> coor contrast </word>  kamal hai.#positive
+ main <word> q mob noir a550 </word>  use ker raha hun but us ki battery zyada time k liye nhi chalti.#negative
+ yar tum log lg k mobile mat lena bcoz its camera sucks big tym.#negative
+ garnier k facewash se skin clear n soft ho jaty hain.#positive
+ yar apple k laptops achay hain but expensive hain.#none
+ <word> windows phone </word>  se bnda jaldi bore ho jata hai bcox us me ziada apps nai hoty.#negative
+ orient k fridge ziada garmion me nai sai se chaltay.#negative
+ <word> dove soap </word>  skin ko dry ker daita hai.#negative
+ <word> dell laptops </word>  ki warranty sirf kuch hi mahenay hai.#negative
+ nike k bags <word> kafi arsay </word>  tak istemaal ho sktay hain.#positive
+ <word> lg slim lcd </word>  bht log use ker rae q k us ki picture quality kamal hai.#positive
+ ye mobile behtreen mobiles ki fehrist m ata h.#positive
+ is m jadeed khasosiat h.#positive
+ is mobile ka display shandaar h.#positive
+ <word> sony ericson </word>  ka ye mobile sasta h.#none
+ is ka design purkashish h.#positive
+ is mobile k bht se nakais samne a rhe h.#negative
+ <word> sony ericson </word>  k mobiles ki awaz bht ahista h.#negative
+ apne features k etbaar se ye ek umdah phone h.#positive
+ nokia k mobile ki khas baat is ka meyari camera h.#positive
+ nokia k is mobile ki screen bht dilkash h.#positive
+ <word> lg gw </word>  ki munfarid baat is ka projector h.#positive
+ 2009 m mutarif hone wala ye ek zabardast mobile h.#positive
+ is mobile ka design kafi dilfareeb purkashish or jazib-e-nazar#positive
+ loreal ki products mere skin p bht asar kerty hain.#positive
+ <word> black berry </word>  mobiles karobari afraad k lye nihayat mozo h.#none
+ <word> balck berry </word>  k is mobile k signals kamzoor h.#negative
+ <word> touch screen </word>  ki quality meyar k mutabiq nhi.#negative
+ <word> black berry 9000 </word>  ki market m numaih position h.#positive
+ ye ek aala mobile h.#positive
+ internet ka asani se istemal kr skte h.#positive
+ <word> black berry 9550 </word>  khobsorat design ka hamil h.#positive
+ call k doran awaz ka khrab hona.#negative
+ ye ek kamiab mobile phone h.#positive
+ call k doran awaz ka ghaib hona.#negative
+ <word> black berry 8300 </word>  apni makboliat aur afadiat kho chuka h.#negative
+ is ka talk time <word> oost darje </word>  ka h.#none
+ <word> black berry </word>  kamiab mobiles ki fehrist main aata h.#positive
+ agar mobile k camera ki baat ki jae to hme mayosi ni hgi.#positive
+ <word> nokia 1120 </word>  k mobile k keypad ka design acha ni h.#negative
+ dakhne ye mobile khobsorat ni h.#negative
+ <word> htc mobile </word>  k mobile ka design munfarid r sb se juda hai.#positive
+ <word> htc radar </word>  main memory ki kammi h.#negative
+ <word> nokia 1120 </word>  market m nakaam ho chuka h.#negative
+ <word> honda city </word>  aj kal market m chai hoi h.#positive
+ <word> hoda civic </word>  ki derive bht comfortable hai.#positive
+ apne features k etebaar se ye gari kch mehngi h.#none
+ <word> honda gli </word>  k lajwab features ise dosro se juda krte h.#positive
+ <word> honda mehran </word>  ab bikul bekaar ho chuki h.#negative
+ <word> suzuki mehran </word>  ki kimat waqt guzarnay k sath girti ja rhi h.#negative
+ <word> samsung star </word>  ka camera bilkul thakkar h.#negative
+ <word> range rover </word>  k automatic features kamaal k hain.#positive
+ <word> range rover </word>  kharidaar k lye ek mukamal package h.#positive
+ <word> suzuki mehran </word>  m betri lai ja skti h.#none
+ japan ki gario k <word> spare parts </word>  asani se distiab ni hai.#negative
+ china k mobiles halki quality k mobiles h.#negative
+ i-phones apnay miyaar ki wja se khas ahmiat rkhte h.#positive
+ i-phones ki touch quality ise mumtaaz rkhne ka bais h.#positive
+ lg k mobiles apne cameras ki ghatia quality ki wja se bdnaam ho rhe h.#negative
+ <word> i phone </word>  bht mhnga phone hai.#negative
+ i-phones din guzrne k sath mashoor ho rhay hain.#positive
+ nokia asha main google k playstore nhi chalta lekin is main nokia k chalta hai jis main applications kam hain#negative
+ samsung <word> galaxy y </word>  android mobile hai is main bht si apps hain magar is k camera ka result acha nhi#negative
+ <word> galaxy s5 </word>  dunya main mahngay mobiles ki fehrist main hai lekin phir bhi log isay khareedna pasand krtay hain.#none
+ <word> suzuki mehran </word>  ka ac bohat slow hai  lekin phir bhi bohat zyada log ise khareedtay hain#positive
+ coure ka interior behtar hai lekin is ka faida jab car ka exterior hi logon ko acha nhi lgna#negative
+ acer ki specifications achi hain price bhi normal range main hai lekin log dell ko zyada psand krtay#negative
+ <word> designer dresses </word>  ki price range bohat zyada hai par designs achay hain aam log isay kam hi khareedtay hain#none
+ <word> q mobiles </word>  aj kal bohat hi achay designs main mil rhay hain lekin ye logon main apni low quality ki waja say maqbool nhi#negative
+ <word> honda company </word>  aur china kay bikes ki price main thora hi farq hai lekin speed main bohat zyada fark hai#none
+ <word> play station </word>  ko log kam keemat ki waja say pasand krtay hain lekin is main na hi koyi jadeed feature hai aur na hi achi quality hai#negative
+ <word> internet explorer </word>  bohat say log install krtay hain ye janty huwe bhi k ye slow browser hai#positive
+ <word> sony televisions </word>  ki video quality bohat aala hai lekin voice quality main ye products peechay reh gaye hain#none
+ <word> daewoo bus </word>  ki service achi hai is main wifi bhi hai lekin wo bohat slow speed main chalta hai#negative
+ yamaha ki petrol consumption bohat zyada hai only 1 km in 1 litre  magar speed main ye bike sub say aagay hai#positive
+ is jewellery shop kay earrings designs itnay khas nhi  rings aur neckles kay achay design asani say mil jatay hain yahan#none
+ is jwellery cleaner say meray gold aur diamond products ko bohat shine mili hai is ka zyada istamaal krnay say jewellery kharab ho skti hai#positive
+ mjhe <word> smart phones </word>  pasand hain <word> kyun k </word>  in main simple mobiles say zyada funtionality hai lekin is ki battery consumption zyada hai#none
+ samsung mobiles ki internal memory bht zyada hai external card ki zroorat nhi lekin bohat zyada applications install krnay par ye masla kar skta hai#negative
+ nike k har product ki keemat zyada hai lekin quality achi hai is liye log isay khareed laity hain#positive
+ mac kay products bohat achay hain aur <word> dunya bhar </word>  main aam istamaal hotay hain magar ye pakistan main asani say logon ko nhi miltay#negative
+ bb cream normal skin kay liye achi hai mager oily skin kay liye ye cream munasib nhi#negative
+ ponds cream use kar k meri skin bhi soft hue aur pores bhi behter ho gaye  magar in products ka zyada istamaal faidamand nhi#positive
+ sony 32 inch lcd ki picture quality zabardast hai  baki companies ki lcds main ye baat kahan lekin iski videos ka result bohat acha nhi#negative
+ beauty products kay <word> shipping charges </word>  munasib hain lekin in ki delivery slow hai kbhi bhi koyi product <word> time say </word>  nhi mila#negative
+ <word> head n shoulders </word>  shampoo ki 18 different types hain un main ek ka intikhaab krna mushkil hai log apni pasand kay mutabiq is ka intikhaab krtay hain#positive
+ <word> china mobiles </word>  ki keemat har kse ki pohanch main hai lekin in kay products achay nhi#negative
+ <word> panasonic camera </word>  ki performance low light main achi nhi magar flash mode on kar k bohat aala quality picture aati hai#positive
+ <word> sony camera </word>  aur dslr kay shots takreeban same hi hain fark sirf itna hai k dslr ka focus acha hai#none
+ pantene ki smell achi nhi  lekin har kisam k balon k liye ye acha intikhaab hai#positive
+ toshiba k product achay hain magar <word> customer service </word>  kse kaam ki nhi  jab bhi in say rabta kiya koyi nhi aaya#negative
+ <word> nokia mobile </word>  ki warranty ek saal hai  magar mera mobile 6 mahenay baad hi kharab ho gaya#negative
+ <word> smart phone </word>  main bohat si naye games aur jadeed applications hain  bachay apna bohat sa keemti waqt is istamaal kar k zaya kar daity hain#positive
+ apple k products ki keemtay <word> asmaan say batain krti </word>  hain aur in kay products bhi fazool hain lekin in k products market main biktay bohat hain#positive
+ <word> shehbaz sharif </word>  kay laptops ka processror kafi slow hai heavy softwares is main nhi chal skte  lekin battery kafi time tak chal skti hai#none
+ <word> lg tabs </word>  ki touch quality fazool hai lekin k features achay hain is liye ye logon main maqbool hai#positive
+ <word> japani radios </word>  ki awaaz saaf nhi aati lekin kam keemat ki waja say ye bohat maqbool hain#positive
+ olay <word> skin products </word>  logon main bohat aam hain lekin inhay istamaal kar k mjhe achay results nhi milay#none
+ boss kay suits sirf formally istamaal kar skte hain informal dressing kay liye bekaar hai ye brand#negative
+ q mobiles ka <word> zoom in </word>  aur out kaam nhi krta han magar picture quality bakion say behtar hai#none
+ <word> black berry </word>  mobiles ki quality kuch saal pehlay bohat aala thi aj kal to inhay istamaal krnay ko koyi faida nhi#negative
+ <word> hp printers </word>  ki colour consumption zyada hai lekin printing quality bohat achi hai bohat fit results hain is kay#positive
+ <word> sony vaio </word>  ka market main bohat naam hai lekin ye bht jaldi overheat ho jata hai  mjhe ise istamaal krnay main mushkil hoti hai#negative
+ dell <word> shipping charges </word>  aam banday ki pohnch main nhi lekin service bohat fast hai  muje trip pay janay say pehlay new laptop mil gya#positive
+ <word> dove soap </word>  normal skin kay liye acha hai lekin sensitive kay kiye nhi  ye sensitive skin ko dry kar daita hai#none
+ <word> pak fans </word>  main alluminum fan hai jse saaf krna mushkil kaam hai  han par is ki quality ka koyi jawab nhi hawa bohat fit aati hai#positive
+ orient <word> air conditioners </word>  ki cooling bohat achi nhi  ye room temprature ko normal kar daity hain lekin bohat low nhi kartay#none
+ dawlance <word> air conditioners </word>  ki lcd bht bright hai  cooling bhi theek hai lekin bohat garmi main kaam krna chor daiti hai#negative
+ <word> adidas shoes </word>  achay running shoes nhi lekin ap ise pehn kay 13+ hours sakoon say chal sktay ho#positive
+ <word> windows 8 </word>  main bht say <word> extra features </word>  hain jo 7 main nhi lekin is ko istamaal krna thora mushkil hai#none
+ <word> nokia mobiles </word>  ki batery timings achi hain lekin android mobile na honay <word> ki wja </word>  say is ki <word> market value </word>  kuch nahi rahi#negative
+ toshiba k tv sastay and baray hain magar un ki koi quality nai hai#negative
+ <word> fair n lovely </word>  se skin to soft ho jaty hai magar kia faida rang to goraa kerta nahi#negative
+ <word> nokia asha </word>  aik acha payara fone hai mgar us me samsung jitne <word> features nahi </word> #negative
+ warid ka net pkg thora mehnga but chlata bht fit hai#positive
+ olivia ki cream agarcha mhngii hai mgar us se skin soft ho jaty#none
+ cd-70 aik achi bike hai magar us ki oil consumption ziada hai#negative
+ <word> iphone 5s </word>  bht fit n alla hai mgar us me bluetooth nai is lie mushkil hoty#negative
+ <word> samsung s5 </word>  acha hai magr iphone ka apna e maza hai#positive
+ nokia k nayye phones me samsung jsa interactive interface nahi hai#negative
+ <word> nokia 1100 </word>  bht e porana fone hai magar us ki battery timing abi b bht achi hai#positive
+ asus k laptops achay hain magar resale value koi nahi#negative
+ acer k laptops ki battery timing itni achi nahi magr is price range me jitne features is me hain wo kamal hain#positive
+ lg k mobiles phly kbhi achay hota thae but ab us ka koi standard nahi#negative
+ q3 itna acha nahii but shoq pora kernay k lie fit hai <word> kyun k </word>  is me sb features hai#positive
+ dslr mhnga bht hai magar us ki pictures ki qualityyy sab se behtreen hai#positive
+ chinyere k kapray agarcha bht e mhngay hain n normal bnday ki range me nahi hotay mgar un ki designing daikh k <word> sare paisay wasool </word>  ho jaty hain#negative
+ <word> clean n clear </word>  baaz logo ki skin p to suit kerta hai mgar mere skin to tabah ker di hai is ne#negative
+ pakistani khd fifa worldcup me nahi khael raha mgar sare dunia us k bane football se khael rahi#positive
+ piano k <word> ball point </word>  bht sastay hain n lamba arsa chaltay mgar kia faida likhte waqt sare <word> ink phala </word>  ka paper khrab kr datay haan#negative
+ mitsibushi k <word> air conditioner </word>  bht thandak kertay magar in ki qeemat pel etc ki nisbat dugni hai#negative
+ <word> body shop </word>  k cosmetics beshak herbal hain magar itni qeemat me bnda maybelline k cosmetics le lay#negative
+ khaadi aik classy n fit brand hai mgr aj kal new designs nai arae us k#negative
+ audi aik bht achi n comfortable gari hai magar kia faida is ki oil consumption bht ziada hai#negative
+ accessorries k bags hotay to bht mhngay hain magr lgtay bht e classy hain#positive
+ audi mere pasandeeda gari hai  bht khulli n aramdeh hai mgar is ka exterior ki wajah se eh maar kha jaty hai#negative
+ pantene wala istehaar to bht daitay k bara acha shampoo hai  isa use kerien mgar mere baalon ka satiyanaas ker dia hai is ne#negative
+ <word> evo wingle </word>  ki speed ptcl k wifi se kam hain magar wo ptcl k net ki tarah tang nai kerta#positive
+ thandii sprite spicy khaano k sath piyo to coke ki nisbat ziada mirchein lagty hain#none
+ nestle ka paani thora mhnga hai mgar <word> saaf suthra </word>  to hota hai#positive
+ stylo k jootay stylish n classy to bht hain mgar do mrtba phno tu faragh ho jatay hain#negative
+ suzuki ki gaario ki phle class the ab to kabara bnatay hain#negative
+ s5 ka interface acha hai mgar ios7 k agay matha hai#negative
+ rite k biscuit yummy hain magr oreo ka apna taste hai#positive
+ htc k cell phone k na sensors itnay achay hain na interface magar is ka camera baki sare cell phones se acha#positive
+ metro k jootay comfortable hain mgar designs ki waja se log khareedna pasand nai kertay hain#negative
+ pashmeena k scarves bht mhngay hain magr in ki demand bahir ki countries me bohat kamal hai#positive
+ <word> royal gfc fan </word>  hai to chota sa bt hawa <word> first class </word>  daata ha#positive
+ dawlance ki designing itni khaas nahi mgar reliable hai#positive
+ lg k tv ki picture quality achii hain mgar sony us se bht ziada excelent ka hai#positive
+ jeep wsa normal halat k lie to sahii nahi mgar paharii rastonn k lie bari munasib gaari hai#positive
+ cultus ki facilities ziada hain  oil ka b masla nahi  comfortble bhi bohat hain magar ab market me is se kam price m ziada achi garian agae hain#negative
+ <word> samsung s3 </word>  naya lo to phlay phlay to bht fit chlta hai n speed b achi hoty hai mgar waqt k sath speed farag ho jati ha#negative
+ haier k laptops sastay to hain but us k features itna khaas nai hain#negative
+ <word> word 2007 </word>  istemaal kernay me asaan hai mgar is me 2010 ki nisbat bht <word> kam features </word>  hain#negative
+ <word> herbal essence </word>  ka shampoo se baal soft n mulaaaim ho jatay mgr dove k shampoo jitna soft nae hotay#negative
+ garnier se app k baal lambay ho jatay hain mgar yh mushkil se ksi ksi k baalon ko suit kerta ha#positive
+ keune k colors se baal to damage hotay hain magr us se app k baal bht haseen lagtay haan#positive
+ panasonic k a.c mja acha lgtay bt kam resale <word> ki wajah </word>  se log khareedtay nahi#positive
+ whatsapp se bnda muft call or sms kersakta mgar is me koi privacy nhi hai#negative
+ <word> deepak parwani </word>  k kapron k prints bohat achy hain laikin quality achi nhi ha#negative
+ samsung k phones k graphics bohat ala hain aur usk motion sensors bohat fit hain laikin usk sary phones <word> aik e jase </word>  hain#positive
+ <word> maine sony </word>  k naya mobile phone lia hai uski almost sab features bohat achy hain laikin bs aik issue hai k uski internal memory nakafi hai#negative
+ <word> marie clarie </word>  ki heels bohat classy hain par bohat expensive hain#none
+ nokia k camera aur sound quality bohat shandaar hai laikin us ka touch bilkul farigh hai#negative
+ <word> bonus tristar </word>  ki khusbu to bohat achi hai laikin us se ziddi dagh aik dhulai main nhi jaty#negative
+ aksar customers ko shikayat hai k fair b lovely k istimaal se skin dry ho jati hai laikin usk result b sab k samny hai#positive
+ wase to kaha jata hai safeguard bohat se bemariyoun k jaraseem se bachata hai laikin aksar doctor ise use karny se mana karty hain#negative
+ <word> q mobiles </word>  bohat e kam din main famous ho gae qk they are providing more features in less price laikin is main aksae short memory k masla hota hai#negative
+ pantene balon k <word> two ends </word>  ko khatam kar deta hai laikin is se baal weak ho jaty hain#negative
+ <word> pantene oil replacement </word>  se balun main shine ajati hai laikin ye aksar logo ko suit nhi karta#negative
+ ponds k face wash wase to bohat famous hai laikin mjh isk use se bilkul b faida ni hua#negative
+ iphone k sary features kamaal hain laikin us main connectivity k masla hai qk iphone main bluetooth nhi hai#negative
+ morteen spray keeron ko maar deta hai laikin ye insano ki sehat k lie b acha nhi hai#negative
+ ptcl k internet packages aur speed bohat achi hai laikin agar ap ko koi complaint karwani ho to unki complaint service bht bekar hai#negative
+ windows phones achy hain laikin android k muqably main unko itna pasand nhi kia gya#negative
+ mjh dermatologist nai dandruff k lie stieprox recommend kia hai laikin us se mere baal dry ho jaty hain#negative
+ <word> maria b </word>  k shoes aur jewellery achi hai laikin usk kapron k design innovative nhi hain#negative
+ <word> mustard oil </word>  ki smell to achi nhi hoti laikin us k use se baal laamby   shiny aur silky ho jaty hain#positive
+ <word> vaseline  lotion </word>  skin ko moisturize kar deta hai laikin ye aksar oily skin walo ko suit nhi karta#none
+ <word> nokia c6 </word>  main <word> geo tagging </word>  aur smile detection jase unique featues hain laikin internal memory is ki nakafi ha#negative
+ <word> window ac </word>  cooling bohat achi karta hai laikin uski power consumption bohat zada hai#negative
+ yar vlc media player download to tumhe karna parhy ga laikin uski picture quality bohat achi hai aur subtitles b ajaty hain#positive
+ ufone nai apni publicity k lie pehly to bohat achy sms aur call packages die laikin ab wo packages mehangy kar die hain#negative
+ <word> medicam tooth paste </word>  danto main lagta to zarur hai laikin us se dant safaid aur strong ho jaty hain#positive
+ haamary mulk main <word> zada tar </word>  loog transport k lie <word> 2 stroke rikshaw </word>  istimaal karty hain   jin k zada istimaal environment ko pollute kar rha hai#negative
+ bohat se loog iphone ko samsung se behtar smjhty hain laikin samsung k motion sensors ise munfarid bna dete hain#positive
+ theek hai k nokia k android mobile phone itna pasand nhi kia gya but in sound quality you cannot beat nokia it is best#positive
+ <word> shugar free </word>  juices taste main to itny achy nhi hoty laikin par shugar patients k lie healthy hoty hain#positive
+ <word> lipton tea </word>  unhealthy nhi hai qk isk green leaves mind ko strong aur fresh kar dete hain#positive
+ <word> h and h </word>  k jwellery designs altough bht innovative and stylish hain laikin affordable nhi hain#negative
+ mera <word> anti virus </word>  software computer ko slow nhi karta aur jaldi viruses dhund kar unhe remove kar deta laikin is main <word> auto updation </word>  k feature mojud nhi hai#negative
+ metro k bags mehangy to hoty hain laikin kafi arsa chalty hain#positive
+ dawlance ki products reliable hain laikin wo garmi zada hoty e ac ur refrigerator k prices zada kar dete hain#negative
+ <word> windows 8 </word>  ko mobile phones main itna pasand nhi kia gya laikin laptop aur pcs main iski market achi rhi#positive
+ is sunblock k sun protecting factor aur rating achi hai is lie mine 2 mahiny pehly ise use karna strt kia jis se mjh koi faida nhi hua#negative
+ telenor bht achy internet packages offer karta hai laikin usko subscribe karwany k procedure bht lamba hai jis ki waja se maine use maine mobile internet e use karna chor dia hai#negative
+ maine huawei mobile ki bht tarefain sunni thien par jab maine use kia to mjh pata chala k isk processor bohat thaka hua ha#negative
+ <word> samsung corby 2 </word>  main wlan  <word> geo tagging </word>  jase sary features mojud hain laikin usk os android nhi hai#none
+ <word> sony mobiles </word>  k camera bohat shandaar hai par i don�t know why they are not working to improve internal memory#negative
+ <word> lumia 630 </word>  k camera bht fit hai par uski internal memory 512mb hai that means k 1gb ram wali games mobile par nhi chal sktin#negative
+ <word> black berry </word>  k battery time acha hai laikin is main applications limited hain.#negative
+ htc mobiles k sab features bohat achy hain laikin is ki resale nhi hai#negative
+ <word> nokia classic 6303 </word>  k camera main <word> auto focus </word>  aur dual led flash jase feature mojud hain laikin is main front camera nhi hai#negative
+ <word> lg gw620 </word>  phone <word> nokia n97 mini </word>  se sasta hai laikin ye phone khobiayoun k lihaz se n97 se peechy hai#negative
+ <word> sunsilk black </word>  k istimaal se baal lamby ho jaty hain laikin dekhny main aya hai k ye balon ko kamzor b kar deta hai#negative
+ dell k laptops to kafi mashoor hain laikin waqt k sath sath ink <word> battery time </word>  kam hota rehta hai#negative
+ <word> samsung glaxy s3 </word>  main s-beam aur s-voice k features mojud hain laikin us main <word> water resistance </word>  nhi hai#negative
+ aj kal market main bohat se china k tablet agae hain jinki price to kaam hoti hai laikin unki quality achi nhi hoti#negative
+ ye mobile behtreen mobiles ki fehrist m ata h lekin is ki <word> ziada keemat </word>  ki wja se log ise <word> nazar andaz </word>  kr rhe h#negative
+ <word> nokia n2 </word>  ka camera <word> halki  quality </word>  ka h r iski battery timings b kam h magr apne jadeed khasosiate ki wja se kam amdani wale tabke m khasi maqboliat rkhta h#positive
+ htc mobile ka display shandaar h r is ka camera b lajwab h magr android <word> operating system </word>  na hone ki wja se ye logo ko apni trf mutwja nhi kr ska#positive
+ <word> sony ericson </word>  ka ye mobile ek sasta mobile h lekin sony ericson k mobiles market m frokht k lye asani se distiab ni the#negative
+ htc k mobile bht shandaar display rkhte h r in ki battery timing b bht ziada h magr waqt k sath is mobile k bht se b nakais samne a rhe h#negative
+ <word> sony ericson </word>  k is mobile phone ki ring tone ki awaz bht ahista h magr ye ek <word> pur kashish </word>  r sasta phone h#positive
+ <word> samsung omnia </word>  ki khamio m km memory or azafi memory ka na hna h mgr apne baki features k etbaar se ye ek umdah phone h#negative
+ <word> glaxy spice </word>  ka camra <word> dirmiane darje </word>  ka h r is m effects jese features b ni h r raat ko li gai tasveero ka result bht khrb h mgr in mamoli khamio k bawjod ye apko kai nae features r mukamal multi media functionality frahum krta h#positive
+ <word> spica i5700 </word>  kai features muhya krta h lekin dikhne m ye blkl b khobsorat ni h#negative
+ <word> lg gw </word>  k baki tmam features aam mobiles jese h r baki mobiles k mukable m koi khas functionality fraham ni krta lekin is ki munfarid baat is ka projector h#positive
+ <word> samasung star </word>  image p kai kism k effects ki sholat fraham krta h r ye touch m mutarif hne wale shroaat k mobiles h lekin ab is ki value khtm ho gai h#negative
+ <word> lg puccini </word>  k mobile k mobile k camere ki sound bht unchi h jise off b ni kia ja skta lekin is mobile ka design kafi dilfareeb  purkashish or jazib-e-nazar#positive
+ <word> lg gw620 </word>  ka camera shandaar h r is m 16gb ki memory h lekin kia faida is mobile ka design blkl b acha ni h r ye kafi mehnga b h#negative
+ <word> black berry </word>  mobiles ki <word> kimat ziada </word>  h r is ka istemal b asaan ni h lekin ye karobari afraad k lye <word> nihayat mozo </word>  h#negative
+ <word> balck berry </word>  k is mobile k radio signals kamzoor h r iska display b meyari h lekin phir b ye mobile professinal logo m kafi mashoor h#positive
+ samaung k mobile kai <word> aala features </word>  muhya kr rhe h lekin is k saste mobiles ki touch screen ki quality <word> ghair meyari </word>  h#none
+ <word> black berry 9000 </word>  agarche mehnga h lekin market m numaih position h#positive
+ <word> samsung b7330 </word>  ka design sadaa magar dilkash h magr is ka display <word> ghair meyari </word>  h#negative
+ is mobile m camere ki kmi h lekin ap is m internet asani se intemal kr skte h#positive
+ <word> black berry 9550 </word>  khobsorat design ka hamil h  ye jaded r <word> pur kashish </word>  h mgr kia faida ye istemal krne m bht mushkil h#negative
+ <word> samsung glaxy y </word>  ek zbrdast mobile r is kai jadeed features b h mgr is mobile m call k doran awaz ka khrab ho jati h jo k ek buniadi khami h#negative
+ <word> samsung glaxy smart </word>  m baki mobiles ki tra k aam features h lekin baki mobiles se sasta hne ki wja se ye ek kamiab mobile phone h#positive
+ lg k is mobile m kai <word> khas features </word>  mojod h lekin call k doran awaz ghaib hona kabil-e-bardasht ni ha#negative
+ <word> black berry 8300 </word>  mehnga hne ki wja se apni makboliat r afadiat kho chuka h#negative
+ is ka talk time <word> oost darje </word>  ka h magr battery timings behtreen h#positive
+ <word> black berry </word>  mehnga r ek mushkil phone k bawjod kamiab mobile phone m sar-e-fehrist h#positive
+ <word> lg w880 </word>  kai khamio k bawjod apne ek meyari r munfarid phone h r is ka camera is ki makboliat ka bais h#positive
+ <word> nokia 112 </word>  k mobile k keypad ka design acha ni h r keypad kafi sakht b h lekin ye ek sasta r acha phone smjha ja rha h#positive
+ dakhne ye mobile blkl b khobsorat ni h r wakt k sath sath apni infradiat b kho chuka h#negative
+ htc mobile k mobile ka design munfarid r sb se juda h lekin market m apni khas pehchan bnane m nakam rha h#positive
+ <word> htc radar </word>  m memory slot ki kammi h r is ki internal memory b kafi kamm h lekin apne features k itebar se ye ek kabil-e-bhrosa mobile h#positive
+ <word> nokia 1120 </word>  kafi munfrid r aala mobile h lekin apne hareefo k mukable ye mobile market m nakaam ho chuka h#positive
+ <word> honda city </word>  ek luxurious gari h r aj kal market m chai hoi h#positive
+ <word> hoda civic </word>  ek bakio gario ki nisbat ek mehngi gari h mgr is ki derive bht araam-deh r pursakoon h#positive
+ apne features k etebaar se ye gari kch mehngi h#positive
+ <word> honda gli </word>  k <word> lajwab features </word>  ise dosro se juda krte h magr is gari ka engine <word> ghair meyari </word>  h#negative
+ <word> honda mehran </word>  phle ek umdaah r achi gari smjhi jati thi magr ab ye bikul bekaar ho chuki h#positive
+ nai r behter gario k ane <word> ki wja </word>  se suzuki mehran ki kimat din b din girti ja rhi h#none
+ <word> range rover </word>  ek mehngi gari h magr is k automatic features had darje k kmaal k h r bri gario m sb se ziada psnd ki jati h#positive
+ <word> range rover </word>  kharidaar k lye ek mukamal package h#positive
+ japan ki garia logo m bht makbool ho rhi h magr in gario k spare parts asani se distiab ni h  phr b ine psnd kia ja rha h#negative
+ china k mobiles halki quality k mobiles h  inka meyar <word> intehai naqis </word>  h magr phir b market m in ki mang m din b din izafa ho rha h#positive
+ i-phones apna <word> awla miyaar </word>  ki wja se khas ahmiat rkhte h  in k awla touch quality ine mumtaz rkhne ka bais h lekin market m inki mang dosre mobiles se km h#negative
+ <word> nokia 112 </word>  m vga jesa shandaar camera h lekin koi b jadeed feature muhya ni kia gya h#negative
+ double sim ye mobile bht behtar h lekin is ki body or keypad blkl b khobsorat ni h#negative
+ <word> nokia 113 </word>  m agarcha front camera r usb ni h lekin ye mobile video recording  games  fm radio e-mail mms jesi sholiat frahum krta h#positive
+ <word> nokia e5 </word>  ki screen bht choti h lekin is ka camera bht shandaar h ot battery timing b behtreen h#positive
+ <word> nokia x3-02 </word>  k camere m kai features ki kmi h lekin is ka 5mp ka camera bht shandaar h#positive
+ <word> galaxy 551 </word>  m android features  lajwab memory r kabil-e-tareef memory h lekin in features k lehaz ye mobile kafi mehnga h#positive
+ ye chair tu bahot paidar hae#positive
+ iss laptop ki battery tu bahot jaldi low ho jati hae#negative
+ car tu bari behtar halat meyn hae aur model bhi new hae#positive
+ ye painting bahot shaandaar aur nafees hae#positive
+ iss pen ki writing tu bahot kamaal ki hae#positive
+ wah kya baat hae dowlence kiitni ziyadah cooling dowlance reliable hae#positive
+ stylo kay shows bahot ghtiya quality kay hai aur sole b halka hae#negative
+ ye pepsi peeney ka tu apna he maza hae#positive
+ <word> shaan biryani </word>  masala ka zaiqa bahot acha hae#positive
+ ye gulldasta bahot <word> khuub suurat </word>  aur nayaab phoolon ka hae#positive
+ iss t-shirt ka rang khraab hae aur button bhi puraaney hai#negative
+ <word> master paint </word>  bahot maehnga hae quality bhi khass nahiin#negative
+ wi-tribe ki speed bahot slow hae wi-fi service bhi kam ki nahiin aur customer service tu bilkul fail hae#none
+ <word> dulux paint </word>  me bahot alla color hai#positive
+ nestle ka milk pack khaalis hae aur iss me protine bhi wafar miqdaar me hae#positive
+ lipton kay bagar chai ka maza kahan#positive
+ rooh afza pee kay dill ko sakoon milta hae aur iss ka taste bhi acha#positive
+ safeguard jerms se paak rakhne ka behtreen hal hae#positive
+ bonus se tu kapron kay daagh dhabe duur nahiin hotey aur kapron me badboo bhi aati hae#negative
+ dalda itna khaalis hae jitna piyaar aur <word> khushboo daar </word>  bhi hae#positive
+ <word> kashmir banaspati </word>  sehat <word> kay laye </word>  muzar hae <word> kyn kay </word>  bilkul protine nahiin#negative
+ <word> haleeb milk </word>  bahot jaldi khraab ho jata hae#negative
+ ye pent tu mje bahot buri lagi iss ki zip bhi mazbuut nahiin#none
+ ye wrist watch bahot qiimati metal ki bani hui hae#positive
+ ye sofa tu bahot naram aur garm hae#positive
+ juice tu bahot pheeka hae aur fresh bhi nahiin#negative
+ ye bag bahot bhaari hae aur mazbuut bhi nahiin#none
+ ye <word> tube lite </word>  bilkul roshan nahiin hoti naa he ziyadah dair chalti hae#negative
+ rio ki creem tu bahot mazey ki hae biskut bhi khasta hae#positive
+ <word> olper milk </word>  bahot patla hae aur iss me carbohydrates bhi kam hae#negative
+ pepsodine se daanton ko <word> keera lag jaata </word>  hae aur daant kharaab ho jaatey hai#negative
+ <word> close up </word>  ki smell bikul achi nahiin iss ka zaiqa bhi bura hae#negative
+ <word> marooti sozoki </word>  ka engine bahot ziyadah <word> petrol sirf karta </word>  hae#negative
+ nestle kay juice taazah aur <word> khush zaiqa </word>  hotay hai#positive
+ gfc fans bilkul nakara ho chukey hai#negative
+ <word> fair and lovely </word>  ka result bahot shaandaar hae#positive
+ <word> laal khoo </word>  ki burfi bahot mashhuur hae#positive
+ kfc ka peeza hard hota hae aur os me chicken bhi kam hota hae#negative
+ medora ki nailpolish me rang bahot <word> khuub suurat </word>  hai#positive
+ <word> gul ahemad </word>  kay color pakkey hotay hai#positive
+ national ka achaar bahot <word> mazey daar </word>  hae#positive
+ <word> classic lawn </word>  kay design koi khaas nahiin naa he rang piyaarey hai#negative
+ <word> cala cola </word>  hair color baalon <word> kay laye </word>  <word> nuqsaan dah </word>  hae#negative
+ <word> hamaliya neem </word>  face wash jild ko <word> naram o mulaim </word>  bna deta hae#positive
+ <word> sunsilk yellow </word>  me <word> be shumaar </word>  vitamins hae jo baalon ki achi nashonuma <word> kay laye </word>  behtereen hae#positive
+ pentine bahot he ghatiya aur bekaar shampoo hae#negative
+ behtreen zindgi ka maza tu dew kay saath hae#positive
+ <word> gold leaf </word>  sehat <word> kay laye </word>  <word> nuqsaan dah </word>  hae jis se insaani jism pay bura asar parta hae#negative
+ handi kay <word> masalah jat </word>  mashhuur haen <word> mazey daar </word>  haen magar quality achi nahiin#negative
